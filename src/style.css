@@ -1,0 +1,10 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.fondoRojo {
+  background-color: red;
+  color: white;
+  padding: 10%;
+}
